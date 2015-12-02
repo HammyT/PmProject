@@ -628,3 +628,8 @@
 		float: right;
 			margin-right: 475px;
 	}
+	.column6
+	{
+		float: left;
+			margin-left: 200px;
+	}
